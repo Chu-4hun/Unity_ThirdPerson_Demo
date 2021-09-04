@@ -1,5 +1,6 @@
 # Unity impelmentation of third person view by [Brackeys](https://www.youtube.com/watch?v=4HpC--2iowE&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=63)
 
+### this is using Unity _Cinemachine_ addon 
 
 ## 1. Movement [script](Assets/Scripts/Player/Player_ThirdPerson_Script.cs)
 ```cs
