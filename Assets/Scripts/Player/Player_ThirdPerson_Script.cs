@@ -10,6 +10,7 @@ public class Player_ThirdPerson_Script : MonoBehaviour
     public float speed = 6f;
     public float turnSmoothTime = 0.1f;
     public float jumpForce = 1000f;
+    public int coins = 0;
     
     private bool is_ground = false;
     private float turnSmoothVelocity;
